@@ -5,6 +5,9 @@
 
 The dataset is taken from IRIS website. <a href= "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data">Click</a> to see the dataset.
 
+Initially the samples are distributed like
+<img src = "original_scatter_plot.png">
+
 The dataset contains three kinds of flowers <b>Setosa, Versicolor</b> and <b>Virginica</b> with 5 parameters, but in the classification algorithm we'll use only two parameters namely <b>petal length</b>(given in first column) and <b>sepal length</b>(given in the third column) to make the program easier to work with.
 
 This is a purely learning algorithm, so the whole dataset will be used as the learning dataset and after the classification of dataset, the testing will be done on the same dataset. As the dataset is not purely linearly separable, the accuracy even after learning on the whole dataset will not be equal to 100%.
@@ -18,3 +21,9 @@ Then the program will learn using the algoritm and later it'll test the same dat
 The accuracy graph and the separation graph for the 3 binary classifications will be shown by the algorithm.
 
 At last the code will print the accuracy of the whole algorithm. 
+
+The accuray vs iteration graph
+<img src = "accuracy_iteration_graph">
+
+The classes are separated like shown below
+<img src = "separation_plot">
