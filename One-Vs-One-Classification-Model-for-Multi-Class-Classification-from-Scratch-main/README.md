@@ -23,7 +23,7 @@ The accuracy graph and the separation graph for the 3 binary classifications wil
 At last the code will print the accuracy of the whole algorithm. 
 
 The accuray vs iteration graph
-<img src = "accuracy_iteration_graph">
+<img src = "accuracy_iteration_graph.png">
 
 The classes are separated like shown below
-<img src = "separation_plot">
+<img src = "separation_plot.png">
