@@ -9,4 +9,4 @@ The list includes:
 <li><a href = "https://github.com/neeraj2681/Neural-Network-Models/tree/main/10_fold_cross_validation_from_scratch-main">K-fold cross validation(k=10 here)</a></li>
 <li><a href = "https://github.com/neeraj2681/Neural-Network-Models/tree/main/MLP">Multi-Layer Perceptron on MNIST dataset</a></li>
 <li><a href = "https://github.com/neeraj2681/Neural-Network-Models/tree/main/CNN">Convolution Neural Network on MNIST dataset</a></li>
-<\ul>
+</ul>
