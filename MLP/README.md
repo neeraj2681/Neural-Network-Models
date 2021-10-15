@@ -1,4 +1,4 @@
-MLP is applied for classification on MNIST dataset and IRIS dataset.<br>
+<h2>MLP is applied for classification on MNIST dataset and IRIS dataset.</h2>
 
 <h3>MLP on IRIS dataset</h3>
 <ol>
